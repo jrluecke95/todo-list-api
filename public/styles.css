@@ -1,4 +1,4 @@
-button {
+/* button {
     margin-left: 1%;
 }
 
@@ -8,4 +8,9 @@ li {
 
 form {
     margin-top: 1%;
+} */
+
+.complete {
+    text-decoration: line-through;
+    color: red;
 }
